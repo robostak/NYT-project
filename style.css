@@ -1,0 +1,32 @@
+
+.nyt-logo {
+  height: 27px;
+}
+.top-menu-box {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  margin: 15px;
+}
+.css-1fe7a5q {
+  height: 16px;
+  width: 16px;
+}
+.top-menu .button {
+  appearance: none;
+  background-color: #567b95;
+  color: white;
+}
+.top-menu .header-left {
+  display: flex;
+  width: 80px;
+  justify-content: space-between;
+}
+.top-menu .header-right {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
+.link {
+  text-decoration: none;
+}
